@@ -1,22 +1,20 @@
-{
-  "albums": [
+[
     {
-      "Title": "Dil Se",
-      "Artist": "A.R. Rahman",
-      "Songs": ["Chaiyya Chaiyya", "Jiya Jale", "Dil Se Re", "E Ajnabi", "Satrangi Re"],
-      "Year": 1998
+        "Title": "Dil Se",
+        "Artist": "A.R. Rahman",
+        "Songs": ["Chaiyya Chaiyya", "Jiya Jale", "Dil Se Re", "E Ajnabi", "Satrangi Re"],
+        "Year": 1998
     },
     {
-      "Title": "Kabhi Alvida Naa Kehna",
-      "Artist": "Shankar-Ehsaan-Loy",
-      "Songs": ["Mitwa", "Tumhi Dekho Na", "Where's the Party Tonight", "Kabhi Alvida Naa Kehna", "Rock N Roll Soniye"],
-      "Year": 2006
+        "Title": "Kabhi Alvida Naa Kehna",
+        "Artist": "Shankar-Ehsaan-Loy",
+        "Songs": ["Mitwa", "Tumhi Dekho Na", "Where's the Party Tonight", "Kabhi Alvida Naa Kehna", "Rock N Roll Soniye"],
+        "Year": 2006
     },
     {
-      "Title": "Lagaan",
-      "Artist": "A.R. Rahman",
-      "Songs": ["Mitwa", "Ghanan Ghanan", "O Rey Chhori", "Radha Kaise Na Jale", "Chale Chalo"],
-      "Year": 2001
+        "Title": "Lagaan",
+        "Artist": "A.R. Rahman",
+        "Songs": ["Mitwa", "Ghanan Ghanan", "O Rey Chhori", "Radha Kaise Na Jale", "Chale Chalo"],
+        "Year": 2001
     }
-  ]
-}
+]
